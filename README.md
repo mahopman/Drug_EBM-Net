@@ -1,4 +1,12 @@
 1. run download_clinical_trials.ipynb
 2. run download_evidence_inference.ipynb
-
-sec2label.json, bad_pmids.json from EBM-Net
+3. run generate_drug_pmcids.ipynb
+4. run generate_evidence_integration.ipynb
+5. run index_drug_dataset.ipynb
+6. run download_pubmed.ipynb
+7. run process_pubmed_splits.ipynb
+8. run generate_drug_pmids.ipynb
+9. run tag_drug_dataset.ipynb
+10. run process_drug_tags.ipynb
+11. run aggregate_drug_contexts.ipynb
+12. run index_drug_dataset.ipynb
