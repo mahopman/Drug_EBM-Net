@@ -9,7 +9,7 @@
 9. run tag_drug_dataset.ipynb X
 10. run process_drug_tags.ipynb X
 11. run aggregate_drug_contexts.ipynb X
-12. run index_drug_dataset.ipynb
+12. run index_drug_dataset.ipynb X
 13. run drug_ebmmnet.ipynb
 
 Synthetic Drug Classifier
