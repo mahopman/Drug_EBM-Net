@@ -22,4 +22,4 @@ Synthetic Drug Classifier
 5. run process_pubmed_splits.ipynb X
 6. run generate_drug_pmids.ipynb X
 7. run generate_intervention_classifier_dataset.ipynb X
-8. run intervention_classifier.ipynb
+8. run intervention_classifier.ipynb -
