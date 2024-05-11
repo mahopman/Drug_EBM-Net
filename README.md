@@ -8,7 +8,7 @@
 8. run process_pubmed_splits.ipynb X
 9. run generate_drug_pmids.ipynb X
 10. run tag_dataset.ipynb X
-11. run process_tags.ipynb -
+11. run process_tags.ipynb X
 12. run aggregate_contexts.ipynb 
 13. run index_drug_dataset.ipynb X
 14. run index_random_dataset.ipynb
