@@ -12,7 +12,7 @@
 12. run aggregate_contexts.ipynb X
 13. run index_drug_dataset.ipynb X
 14. run index_random_dataset.ipynb X
-15. run drug_ebmmnet.ipynb
+15. run drug_ebmmnet.ipynb X
 
 Synthetic Drug Classifier
 1. run download_clinical_trials.ipynb X
