@@ -11,7 +11,7 @@
 11. run process_tags.ipynb X
 12. run aggregate_contexts.ipynb X
 13. run index_drug_dataset.ipynb X
-14. run index_random_dataset.ipynb 
+14. run index_random_dataset.ipynb X
 15. run drug_ebmmnet.ipynb
 
 Synthetic Drug Classifier
